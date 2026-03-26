@@ -51,6 +51,8 @@
 
 ■ OpenRGB: https://openrgb.org/ - набор программного обеспечения, который позволяет управлять всеми вашими RGB-устройствами.
 
+■ Ventoy: https://www.ventoy.net/ - инструмент с открытым исходным кодом для создания загрузочных USB-накопителей с поддержкой ISO/WIM/IMG/VHD(x)/EFI.
+
 РАЗГОН
 
 ■ Universal x86 Tuning Utility: https://github.com/JamesCJ60/Universal-x86-Tuning-Utility - предоставляет широкие возможности для разгона железа.
