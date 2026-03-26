@@ -95,6 +95,8 @@
 
 ■ DLSS Swapper: https://github.com/beeradmoore/dlss-swapper - позволяет обновлять интегрированные в игры версии DLSS/FSR/XeSS в автоматическом режиме.
 
+■ Heroic Games Launcher: https://heroicgameslauncher.com/ - программа запуска игр с открытым исходным кодом для Linux, Windows и macOS. На данный момент она поддерживает запуск игр из Epic Games Store с помощью Legendary, GOG Games с помощью собственной реализации gogdl и Amazon Games с помощью Nile.
+
 ПЕРСОНАЛИЗАЦИЯ
 
 ■ Open-Shell: https://github.com/Open-Shell/Open-Shell-Menu - утилита, позволяющая включить классический вариант оформления меню "Пуск" в Windоws 7/8/10. Также Open Shell добавляет в Проводник панель инструментов для выполнения таких операций, как перейти в корневой каталог, вырезать, копировать или вставить объект, отобразить свойства папки, и многое другое.
