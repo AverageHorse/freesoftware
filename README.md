@@ -78,7 +78,9 @@
 
 ■ FastStone Image Viewer: https://www.faststone.org/FSViewerDetail.htm - быстрый, стабильный и удобный браузер, конвертер и редактор изображений.
 
-■ ImageGlass: https://imageglass.org/ - легкий и универсальный просмотрщик изображений. 
+■ ImageGlass: https://imageglass.org/ - легкий и универсальный просмотрщик изображений.
+
+■ Kalmuri: https://global.kilho.net/ru/kalmuri - удобный инструмент для захвата экрана с минимальным набором опций.
 
 -----------
 МУЛЬТИМЕДИА
