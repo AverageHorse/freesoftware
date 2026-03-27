@@ -67,6 +67,10 @@
 
 ■ Greenshot: https://getgreenshot.org/ - программа для создания скриншотов с открытым исходным кодом.
 
+■ ImageGlass: https://imageglass.org/ - легкий и универсальный просмотрщик изображений. 
+
+■ FastStone Image Viewer: https://www.faststone.org/FSViewerDetail.htm - быстрый, стабильный и удобный браузер, конвертер и редактор изображений.
+
 ТЕКСТ
 
 ■ AkelPad: https://akelpad.sourceforge.net/ - текстовый редактор с открытым исходным кодом, созданный чтобы быть маленьким и быстрым.
