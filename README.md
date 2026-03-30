@@ -40,6 +40,8 @@
 
 ■ Geek Uninstaller: https://geekuninstaller.com/ - портативная утилита, которая выполняет глубокое и быстрое сканирование и удаляет все остатки удаленных программ. Также поддерживает удаление приложений Microsoft Store и имеет встроенную поддержку X64.
 
+■ Absolute Uninstaller: https://www.glarysoft.com/absolute-uninstaller/ - программа, похожая на стандартную утилиту Установку/Удаление программ в Windows, но более мощная.
+
 ■ Delete.On.Reboot: https://www.softwareok.com/?seite=Freeware/Delete.On.Reboot - небольшая и эффективная бесплатная программа, позволяющая элегантно удалять нестираемые файлы, каталоги, вложенные папки при перезагрузке компьютера под управлением Windows.
 
 ■ Simple Sticky Notes: https://www.simplestickynotes.com/ - простая в понимании программа и более продвинутая альтернатива «Заметкам Windows».
