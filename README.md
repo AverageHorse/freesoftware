@@ -124,9 +124,16 @@
 ■ qbittorrent: https://www.qbittorrent.org/ - бесплатный и удобный торрент-клиент.
 
 -----
-ТЕКСТ
+БЛОКНОТ
 
 ■ AkelPad: https://akelpad.sourceforge.net/ - текстовый редактор с открытым исходным кодом, созданный чтобы быть маленьким и быстрым.
+
+■ RJ TextEd: https://www.rj-texted.se/ - мощный текстовый редактор с большим количеством функций и подсветкой синтаксиса.
+
+■ Notepad3: https://rizonesoft.com/downloads/notepad3/ - удобный текстовый редактор на базе Scintilla с подсветкой синтаксиса для популярных языков программирования и различными опциями.
+
+-----
+ТЕКСТ
 
 ■ SumatraPDF: https://www.sumatrapdfreader.org/free-pdf-reader - свободная программа, предназначенная для просмотра и печати документов в форматах PDF, DjVu, FB2, ePub, MOBI, CHM, XPS, CBR/CBZ, для платформы Windows.
 
