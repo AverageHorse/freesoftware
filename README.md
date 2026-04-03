@@ -36,8 +36,6 @@
 
 ■ Privacy Eraser: https://www.cybertronsoft.com/products/privacy-eraser/ - комплексный инструмент для защиты приватности путем удаления истории вашей активности в Интернете и других следов деятельности на ПК. Поддерживает основные параметры системы Windows, популярные браузеры и приложения.
 
-■ O&O ShutUp10++: https://www.oo-software.com/en/shutup10 - антишпион для Windows 10/11.
-
 ■ HostsFileEditor: https://hostsfileeditor.com/ - редактирование файла hosts для Windows и управление им.
 
 ■ Sandboxie Plus: https://github.com/sandboxie-plus/Sandboxie - родолжение Sandboxie с открытым исходным кодом - yтилита для контроля за работой различных программ. После установки утилиты взаимодействия всевозможных программ с системой будут происходить через неё. Это даст возможность удалять следы последнего сеанса работы приложений.
@@ -48,6 +46,10 @@
 
 -----------
 ОПТИМИЗАЦИЯ
+
+■ O&O ShutUp10++: https://www.oo-software.com/en/shutup10 - антишпион для Windows 10/11.
+
+■ Winslopr: https://github.com/builtbybel/Winslopr - легковесный инструмент, который помогает устранить ненужные элементы в Windows 11.
 
 ■ Mem Reduct: https://github.com/henrypp/memreduct - легкое приложение для управления памятью в режиме реального времени для мониторинга и очистки системной памяти вашего компьютера.
 
