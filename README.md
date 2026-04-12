@@ -114,6 +114,8 @@
 
 ■ Kalmuri: https://global.kilho.net/ru/kalmuri - удобный инструмент для захвата экрана с минимальным набором опций.
 
+■ Converseen: https://converseen.fasterland.net/ - бесплатный кроссплатформенный конвертер изображений.
+
 -----------
 МУЛЬТИМЕДИА
 
