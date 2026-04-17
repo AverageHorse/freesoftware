@@ -118,6 +118,8 @@
 
 ■ Converseen: https://converseen.fasterland.net/ - бесплатный кроссплатформенный конвертер изображений.
 
+■ ExifToolGui: https://github.com/FrankBijnen/ExifToolGui - утилита для редактирования и очистки метаданных у изображений.
+
 -----------
 МУЛЬТИМЕДИА
 
