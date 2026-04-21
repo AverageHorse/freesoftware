@@ -220,4 +220,4 @@
 
 ■ Windhawk: https://windhawk.net/ - модульный кастомизатор для Windows 11.
 
-■ ExplorerPatcher: https://github.com/valinet/explorerpatcher - утилита с открытым исходным кодом для Windows, которая восстанавливает классический интерфейс и функциональность Windows 10 в системах Windows 10 и 11.
+■ ExplorerPatcher: https://github.com/valinet/explorerpatcher - утилита с открытым исходным кодом для Windows, которая восстанавливает классический интерфейс и функциональность Windows в системах Windows 10 и 11.
