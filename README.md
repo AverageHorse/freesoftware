@@ -95,6 +95,8 @@
 
 ■ X Drive Writer: https://xcodecpack.com/drive-writer/ - портативная программа для Windows, которая записывает загрузочные ISO-образы на USB-накопители, внешние SSD-диски и внутренние жесткие диски. Режим DD для установщиков Linux, режим Partition + Extract для ISO-образов Windows.
 
+■ GetPixelColor: https://www.softwareok.com/?seite=Microsoft/GetPixelColor - программа для определения цвета пикселей рабочего стола, окон и т.д.
+
 ------
 РАЗГОН
 
