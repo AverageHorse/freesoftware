@@ -99,6 +99,8 @@
 
 ■ GetPixelColor: https://www.softwareok.com/?seite=Microsoft/GetPixelColor - программа для определения цвета пикселей рабочего стола, окон и т.д.
 
+■ UniGetUI: https://devolutions.net/unigetui/ - графический интерфейс для большинства распространенных менеджеров пакетов командной строки в Windows 10 и 11, включая WinGet , Scoop , Chocolatey , Pip , Npm , .NET Tool , PowerShell Gallery и другие. С помощью UniGetUI вы можете обнаруживать, устанавливать, обновлять и удалять программное обеспечение из множества менеджеров пакетов через один интерфейс.
+
 ------
 РАЗГОН
 
