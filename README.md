@@ -21,7 +21,7 @@
 
 ■ GPU Shark II: https://www.geeks3d.com/gpushark/ - это информационно-мониторинговая утилита для видеокарт.
 
-■ PassMark RAMMon: passmark.com/products/rammon/ - утилита для получения и отображения информации SPD (Serial Presence Detect) из установленных на ПК модулей оперативной памяти.
+■ PassMark RAMMon: https://www.passmark.com/products/rammon/ - утилита для получения и отображения информации SPD (Serial Presence Detect) из установленных на ПК модулей оперативной памяти.
 
 ■ CPU-Z: https://www.cpuid.com/softwares/cpu-z.html - программа-утилита для отображения технической информации о персональном компьютере пользователя.
 
