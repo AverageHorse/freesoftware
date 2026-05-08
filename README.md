@@ -185,7 +185,7 @@
 --------
 ИНТЕРНЕТ
 
-■ Parabolic: https://github.com/nickvisionapps/parabolic - мощная оболочка для yt-dlp с широим набором опций.
+■ Parabolic: https://github.com/nickvisionapps/parabolic - мощная оболочка для yt-dlp с широким набором опций.
 
 ■ qbittorrent: https://www.qbittorrent.org/ - бесплатный и удобный торрент-клиент.
 
