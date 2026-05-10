@@ -260,3 +260,5 @@
 ■ Windhawk: https://windhawk.net/ - модульный кастомизатор для Windows 11.
 
 ■ ExplorerPatcher: https://github.com/valinet/explorerpatcher - утилита с открытым исходным кодом для Windows, которая восстанавливает классический интерфейс и функциональность Windows в системах Windows 10 и 11.
+
+■ Coodesker: https://github.com/coodesker/coodesker-desktop - удобная программа для организации рабочего стола Windows, которая автоматически сортирует ярлыки, файлы и папки по настраиваемым контейнерам («боксам»). 
