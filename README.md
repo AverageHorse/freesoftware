@@ -70,6 +70,8 @@
 
 ■ FluentCleaner: https://github.com/builtbybel/FluentCleaner - современная утилита для очистки и оптимизации Windows, созданная как легковесная и прозрачная альтернатива CCleaner.
 
+■ InstallerClean Standart: https://github.com/no-faff/InstallerClean - современная альтернатива PatchCleaner с открытым исходным кодом. Безопасная очистка C:\Windows\Installer - скрытой папки Windows, которая незаметно занимает место на диске.
+
 -------
 СИСТЕМА
 -------
