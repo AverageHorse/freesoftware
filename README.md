@@ -156,6 +156,8 @@
 
 ■ BetterMediaInfo: https://github.com/caoccao/BetterMediaInfo - более удобный графический интерфейс для MediaInfo.
 
+■ FastFlix: https://fastflix.org/ - простой и дружественный графический интерфейс для кодирования видео.
+
 -------
 ГРАФИКА
 -------
