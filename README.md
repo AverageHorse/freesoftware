@@ -275,6 +275,8 @@
 ----
 ■ DLSS Swapper: https://github.com/beeradmoore/dlss-swapper - позволяет обновлять интегрированные в игры версии DLSS/FSR/XeSS в автоматическом режиме.
 
+■ OptiScaler Client: https://github.com/Agustinm28/Optiscaler-Client - сторонняя утилита с открытым исходным кодом (GPL-3.0), разработанная пользователем Agustinm28 для упрощения установки и управления модом OptiScaler.
+
 ■ Heroic Games Launcher: https://heroicgameslauncher.com/ - программа запуска игр с открытым исходным кодом для Linux, Windows и macOS. На данный момент она поддерживает запуск игр из Epic Games Store с помощью Legendary, GOG Games с помощью собственной реализации gogdl и Amazon Games с помощью Nile.
 
 --------------
