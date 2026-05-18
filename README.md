@@ -72,6 +72,8 @@
 
 ■ FluentCleaner: https://github.com/builtbybel/FluentCleaner - современная утилита для очистки и оптимизации Windows, созданная как легковесная и прозрачная альтернатива CCleaner.
 
+■ Sparkle: https://github.com/thedogecraft/sparkle - универсальное приложение для Windows, разработанное для повышения производительности вашей системы за счет эффективного удаления ненужного программного обеспечения Microsoft и применения различных настроек.
+
 ■ InstallerClean Standart: https://github.com/no-faff/InstallerClean - современная альтернатива PatchCleaner с открытым исходным кодом. Безопасная очистка C:\Windows\Installer - скрытой папки Windows, которая незаметно занимает место на диске.
 
 -------
