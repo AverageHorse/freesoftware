@@ -255,6 +255,8 @@
 
 ■ Notepad3: https://rizonesoft.com/downloads/notepad3/ - удобный текстовый редактор на базе Scintilla с подсветкой синтаксиса для популярных языков программирования и различными опциями.
 
+■ MarkText: https://github.com/marktext/marktext - редактор для работы с файлами Markdown (.md).
+
 -----
 ТЕКСТ
 -----
